@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.quadrado{
+    background-color: rgb(90, 0, 0);
+    
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 3%;
+    margin-bottom: 8%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    border-radius: 15%;
+}
+h1,h2,h6,p,label{
+    color: aliceblue;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

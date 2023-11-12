@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+
+}
+
+.box{
+    background-color:  #e9b200;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 23%;
+    margin-bottom: 3%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-radius: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

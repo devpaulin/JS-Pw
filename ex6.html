@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style6.css">
+<script src="script6.js"></script>
+<html>
+<head>
+  <title>Peso Ideal</title>
+
+</head>
+<body>
+  <div class="box">
+    <h1>Peso Ideal</h1>
+    <label for="altura">Altura (em metros):</label>
+      <input type="number" id="altura" step="0.01" min="0" placeholder="Altura" required>
+        <br>
+    <label for="sexo">Sexo:</label>
+      <select id="sexo">
+        <option value="masculino">Masculino</option>
+        <option value="feminino">Feminino</option>
+      </select>
+    <br>
+  <button onclick="calcularPesoIdeal()">Calcular</button>
+  <div id="result"></div>
+</div>
+</body>
+</html>
